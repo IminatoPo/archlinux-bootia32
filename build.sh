@@ -1,6 +1,6 @@
 #!/bin/bash
 DATE=$(date +%Y%m)
-FSLABEL="ARCH_$DATE"
+FSLABEL="ARCOLINUX"
 
 echo 'mkdir'
 mkdir out
